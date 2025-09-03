@@ -11,7 +11,6 @@ Junior Software Developer based in Nairobi, Kenya. Passionate about building sec
 * Built mobile applications in **Kotlin** (MVVM, APIs, Room database).
 * Skilled in **UI/UX design and usability testing** using Figma and Adobe XD.
 * Strong background in **data privacy and security**, with focus on robust controls and anonymization.
-* Active collaborator: conducted stakeholder sessions, co‑led client presentations, and integrated feedback into product iterations.
 
 ---
 
