@@ -46,13 +46,6 @@ Junior Software Developer based in Nairobi, Kenya. Passionate about building sec
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laura-Nyaaga\&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Nyaaga\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📫 Connect
 
 
