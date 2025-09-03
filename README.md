@@ -42,7 +42,7 @@ Junior Software Developer based in Nairobi, Kenya. Passionate about building sec
   *Repo:* [Totosteps Mobile](https://github.com/Laura-Nyaaga/Ciphers-Mobile-Totosteps.git) • *Tech:* Kotlin, Django backend, REST APIs
 
 * **Vision Dynamics Website** — Single‑page website for a virtual assistant company.
-  *Repo:* [Vision Dynamics](https://github.com/Laura-Nyaaga/visiondynamics_web.git) • *Tech:* HTML, CSS, JavaScript • [Figma Design](https://www.figma.com/design/qaRAbHHFi5grdsNNOH5pTm/vision-dynamics)
+  *Repo:* [Vision Dynamics](https://github.com/Laura-Nyaaga/visiondynamics_web.git) • *Tech:* JavaScript, TypeScript• [Figma Design](https://www.figma.com/design/qaRAbHHFi5grdsNNOH5pTm/vision-dynamics)
 
 ---
 
